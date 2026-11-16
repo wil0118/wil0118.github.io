@@ -7,9 +7,11 @@ I am William, but you may call me Will for short. I am a asian american that is 
 
 
 Like what I always say to myself and my friends. 
+
 "We imagine. We deisgn. We create."
 
 
 # My Skills
 Technical skills: Python, Java, Map design.
+
 Software: UE5, Roblox Studio, IntelliJ, jGRASP
