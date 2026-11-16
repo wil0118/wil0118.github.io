@@ -24,7 +24,7 @@ Software: UE5, Roblox Studio, IntelliJ, jGRASP
 
 
 # My Resume
-Link: 
+Download the file above.
 
 # My Contact
 Email: williamlee0118@icloud.com
